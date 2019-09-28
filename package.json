@@ -14,7 +14,7 @@
         "url",
         "search"
     ],
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A React hook that saves/restores state to the url search (query) of the webpage.",
     "main": "dist/index.js",
     "scripts": {

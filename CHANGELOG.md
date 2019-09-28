@@ -6,6 +6,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 
+## 1.0.0 (2019-09-28)
+
+
+
 ### [1.0.3](https://github.com/tasoskakour/react-use-url-search-state/compare/v1.0.2...v1.0.3) (2019-09-28)
 
 
